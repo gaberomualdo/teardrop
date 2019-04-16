@@ -1,2 +1,2 @@
-# [Teardrop](https://xtrp.github.io/Teardrop/)
+# Teardrop
 A minimalist, entirely free to-do list web application.
